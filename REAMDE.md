@@ -25,17 +25,25 @@ xml을 써보며 중복이 많아 코딩이 지루해질 수 있는 것보다 �
 
 
 
-##  엔티티 설계 
+###  엔티티 설계
+
+
+
 <img src = "https://user-images.githubusercontent.com/79819812/131078206-e3a5803a-f075-44f0-91c1-67dac9f4afed.png">
-## 테이블 설계
+## 
+
+###  테이블 설계
+
+
+
 <img src = "https://user-images.githubusercontent.com/79819812/131078230-8025dc77-5297-4f07-8ab0-821176c53f95.png">
+
 엔티티와 테이블을 설계하고 JPA를 통해 ORM으로 맵핑합니다.
 
-(이슈에 참고용 이미지가 있습니다.)
-https://github.com/HelloWorld-jh/Plan.md/issues/1
 
 
-## 로직 개발
+
+## 핵심 로직 개발
 - api 아키텍처를 구성합니다.
 
 - 도메인의 핵심 로직을 개발합니다.
@@ -52,3 +60,6 @@ https://github.com/HelloWorld-jh/Plan.md/issues/1
 
 
 
+이렇게 먼저 아주 간단하고 최소한의 단위의 웹 api를 개발합니다.
+
+이후에 업데이트를 거쳐가며 시간이 지날수록 문제를 개선하고 성능을 향상시키는 방향을 지향합니다.
