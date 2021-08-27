@@ -19,6 +19,7 @@ xml을 써보며 중복이 많아 코딩이 지루해질 수 있는 것보다 �
 
 
 ##  도메인 설계
+<img src = "https://user-images.githubusercontent.com/79819812/131078127-72a7ebc2-ac41-476c-928f-fc14510b1313.png">
 
 회원, 상품, 주문의 기능만으로 도메인 모델을 설계합니다.
 
