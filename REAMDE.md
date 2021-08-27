@@ -25,8 +25,10 @@ xml을 써보며 중복이 많아 코딩이 지루해질 수 있는 것보다 �
 
 
 
-##  엔티티 설계 & 테이블 설계
-
+##  엔티티 설계 
+<img src = "https://user-images.githubusercontent.com/79819812/131078206-e3a5803a-f075-44f0-91c1-67dac9f4afed.png">
+## 테이블 설계
+<img src = "https://user-images.githubusercontent.com/79819812/131078230-8025dc77-5297-4f07-8ab0-821176c53f95.png">
 엔티티와 테이블을 설계하고 JPA를 통해 ORM으로 맵핑합니다.
 
 (이슈에 참고용 이미지가 있습니다.)
