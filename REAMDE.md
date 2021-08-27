@@ -29,6 +29,7 @@ xml을 써보며 중복이 많아 코딩이 지루해질 수 있는 것보다 �
 엔티티와 테이블을 설계하고 JPA를 통해 ORM으로 맵핑합니다.
 
 (이슈에 참고용 이미지가 있습니다.)
+https://github.com/HelloWorld-jh/Plan.md/issues/1
 
 
 ## 로직 개발
